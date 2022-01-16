@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Muhammad Yama
+                    Muhammad Yama 2022
                 </div>
 
                 <div class="links">
